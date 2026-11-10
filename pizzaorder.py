@@ -54,10 +54,6 @@ if size == 'm' or size == 'l':
                         bill = bill + 5
                         break
                     elif choice1 in ('n','no'):
-
-
-
-    
  
 print(f"Bill: {bill}")
 
